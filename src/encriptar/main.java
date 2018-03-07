@@ -1,5 +1,4 @@
 package encriptar;
-import encripta.*;
 import java.util.Scanner;
 
 public class main {
